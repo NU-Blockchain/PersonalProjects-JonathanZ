@@ -1,0 +1,29 @@
+{
+  "name": "truffletest",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "node-darwin-arm64": "^18.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NU-Blockchain/Solidity_Practices.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NU-Blockchain/Solidity_Practices/issues"
+  },
+  "homepage": "https://github.com/NU-Blockchain/Solidity_Practices#readme",
+  "description": ""
+}
